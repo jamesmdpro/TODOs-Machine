@@ -1,0 +1,15 @@
+body {
+    background: radial-gradient(circle, #ff7e5f, #feb47b); /* Ajusta los colores a tu gusto */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.app {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    position: relative; /* Ensure positioning context for the floating button */
+    background-color: rgba(255, 255, 255, 0.9); /* Fondo blanco con transparencia */
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

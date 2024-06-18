@@ -1,0 +1,29 @@
+.todo-item span {
+    cursor: pointer;
+    font-weight: bold;
+    padding: 0 10px;
+    font-size: 24px;
+}
+
+.todo-item-done {
+    color: rgb(12, 15, 2);
+    margin-left: 12px;
+}
+
+.todo-item-done--active{
+    color: green;
+    margin-left: 12px;
+}
+
+.todo-item-delete {
+    color: red;
+    margin-right:12px;
+}
+
+.todo-item p {
+    flex: 1;
+    text-align: center;
+}
+.todo-item--complete {
+    text-decoration: line-through;
+}

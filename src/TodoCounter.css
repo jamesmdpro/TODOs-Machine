@@ -1,0 +1,12 @@
+.todo-counter {
+    text-align: center;
+    font-size: 3rem;
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    text-shadow: 1px 1px 0 #f5eee6, 2px 2px 0 #000, 3px 3px 0 #000, 4px 4px 0 #000;
+    margin: 20px 0;
+}
